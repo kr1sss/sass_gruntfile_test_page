@@ -1,0 +1,22 @@
+{
+  "name": "kodilla-grunt-example",
+  "version": "1.0.0",
+  "description": "example grunt project",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Krzysztof Naliwajko",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1"
+  }
+}
